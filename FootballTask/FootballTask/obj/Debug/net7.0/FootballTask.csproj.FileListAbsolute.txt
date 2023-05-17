@@ -1,0 +1,15 @@
+/Users/mehmedmohamed/Projects/FootballTask/FootballTask/bin/Debug/net7.0/FootballTask
+/Users/mehmedmohamed/Projects/FootballTask/FootballTask/bin/Debug/net7.0/FootballTask.deps.json
+/Users/mehmedmohamed/Projects/FootballTask/FootballTask/bin/Debug/net7.0/FootballTask.runtimeconfig.json
+/Users/mehmedmohamed/Projects/FootballTask/FootballTask/bin/Debug/net7.0/FootballTask.dll
+/Users/mehmedmohamed/Projects/FootballTask/FootballTask/bin/Debug/net7.0/FootballTask.pdb
+/Users/mehmedmohamed/Projects/FootballTask/FootballTask/obj/Debug/net7.0/FootballTask.csproj.AssemblyReference.cache
+/Users/mehmedmohamed/Projects/FootballTask/FootballTask/obj/Debug/net7.0/FootballTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmedmohamed/Projects/FootballTask/FootballTask/obj/Debug/net7.0/FootballTask.AssemblyInfoInputs.cache
+/Users/mehmedmohamed/Projects/FootballTask/FootballTask/obj/Debug/net7.0/FootballTask.AssemblyInfo.cs
+/Users/mehmedmohamed/Projects/FootballTask/FootballTask/obj/Debug/net7.0/FootballTask.csproj.CoreCompileInputs.cache
+/Users/mehmedmohamed/Projects/FootballTask/FootballTask/obj/Debug/net7.0/FootballTask.dll
+/Users/mehmedmohamed/Projects/FootballTask/FootballTask/obj/Debug/net7.0/refint/FootballTask.dll
+/Users/mehmedmohamed/Projects/FootballTask/FootballTask/obj/Debug/net7.0/FootballTask.pdb
+/Users/mehmedmohamed/Projects/FootballTask/FootballTask/obj/Debug/net7.0/FootballTask.genruntimeconfig.cache
+/Users/mehmedmohamed/Projects/FootballTask/FootballTask/obj/Debug/net7.0/ref/FootballTask.dll
