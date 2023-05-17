@@ -1,1 +1,1 @@
-# Here is the project that presents a task from the university on C# OOP.
+# Here is the homework project that presents a task from the University on C# OOP.
